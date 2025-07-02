@@ -3,3 +3,4 @@ Hello, GitHub! This is my first file.
 This is my first edit on GitHub!
 
 This line is added in the update-hello-file branch.
+This line is added in the update-hello-file branch 2.
